@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserDeleteApi", "UserDeleteApi\UserDeleteApi.csproj", "{42493C93-6AE8-41B6-81B8-B83A7E60252E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42493C93-6AE8-41B6-81B8-B83A7E60252E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42493C93-6AE8-41B6-81B8-B83A7E60252E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42493C93-6AE8-41B6-81B8-B83A7E60252E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42493C93-6AE8-41B6-81B8-B83A7E60252E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D91FF0-B963-4012-B691-2C3CDC91ED03}
+	EndGlobalSection
+EndGlobal
