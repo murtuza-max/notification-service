@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Service-specific build outputs
+messaging-service/bin/
+messaging-service/obj/
+payment-service/bin/
+payment-service/obj/
